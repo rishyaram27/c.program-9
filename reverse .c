@@ -1,0 +1,1 @@
+// write a C program to print the reverse of the given array
